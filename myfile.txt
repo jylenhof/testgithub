@@ -1,2 +1,3 @@
 Ceci est un fichier 
-avec une deux lignes
+avec une trois
+lignes
